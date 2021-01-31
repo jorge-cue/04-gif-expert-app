@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GifGridItem tests suite shoud render the component successfully 1`] = `
+<div
+  className="card"
+>
+  <img
+    alt="Test Image Title"
+    src="https://test_image_url"
+  />
+  <p>
+     
+    Test Image Title
+     
+  </p>
+</div>
+`;
